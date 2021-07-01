@@ -1,0 +1,14 @@
+apiVersion: v2
+category: Other
+description: Edit BPMN, DMN and Test Scenario files
+displayName: Red Hat Business Automation Bundle
+icon: https://raw.githubusercontent.com/kiegroup/kie-tooling-store/master/packages/vscode-extension-red-hat-business-automation-bundle/icon.png
+name: vscode-extension-red-hat-business-automation-bundle
+publisher: redhat
+repository: https://github.com/kiegroup/kie-tooling-store
+title: Red Hat Business Automation Bundle Plug-in
+type: VS Code extension
+version: 0.10.0
+spec:
+  extensions:
+  - https://github.com/kiegroup/kie-tooling-store/releases/download/0.10.0/vscode_extension_red_hat_business_automation_bundle_0.10.0.vsix
